@@ -1,0 +1,9 @@
+<style>
+    body {
+        /* Defina a altura total da página */
+        height: 100vh; /* 100% da altura da janela de visualização */
+        margin: 0; /* Remove margens padrão */
+        /* Crie o degradê usando linear-gradient */
+        background-image: linear-gradient(to bottom, #ffcccc, #ff6666);
+    }
+</style>
